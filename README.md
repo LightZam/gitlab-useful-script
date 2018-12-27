@@ -7,6 +7,20 @@
 bash$ python3 MVPCount.py
 ```
 
+### Required Variable
+**`You need to repalce it`**
+
+```
+Your gitlab domain: {gitlab url}
+Your gitlab account private_token: {token}
+```
+
+### Addition Variable
+
+```
+The start milestone you like to count: beginningMilestoneId
+```
+
 ### Result
 ```
 Sprint 30 - 訊息搜尋 second step: Ian
